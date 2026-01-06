@@ -1,2 +1,2 @@
 # IOT_industry_monitoring_thingSpeak
-industry changes which monitoring and display in the Thingspeak platfom
+The Industry changes which are monitored and and displayed in the Thingspeak platform
